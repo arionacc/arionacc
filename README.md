@@ -30,6 +30,8 @@ Brings back the Edge Panel experience on Samsung devices that no longer support 
   <img src="Screenshot/Image_1.png" alt="EdgeLite Panel" width="480" />
 </a>
 
+---
+
 ### 📋 [SnipBox](https://github.com/arionacc/SnipBox)
 
 Snippet manager with a floating bubble. Offline, no internet permission.
@@ -37,6 +39,8 @@ Snippet manager with a floating bubble. Offline, no internet permission.
 <a href="https://github.com/arionacc/SnipBox">
   <img src="Screenshot/Image_2.png" alt="SnipBox" width="480" />
 </a>
+
+---
 
 ### 🌱 Currently learning
 
@@ -52,6 +56,8 @@ Advanced Kotlin, Jetpack Compose, modern Android architecture.
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white)
 
+---
+
 ## `$ contribute`
 
 I enjoy contributing to open source. If you have an idea or found a bug in my projects, feel free to open an issue or send a pull request!
@@ -61,3 +67,5 @@ I enjoy contributing to open source. If you have an idea or found a bug in my pr
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3a3a,100:000000&height=100&section=footer" width="100%" />
 
 </div>
+
+---
