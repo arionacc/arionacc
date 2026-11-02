@@ -22,9 +22,25 @@ I like apps that are lightweight, offline-first, and respect user privacy.
 
 ## `$ ls projects/`
 
-- 🧩 **[EdgeLite-Panel](https://github.com/arionacc/EdgeLite-Panel)**: Brings back the Edge Panel experience on Samsung devices that no longer support it
-- 📋 **[SnipBox](https://github.com/arionacc/SnipBox)**: Snippet manager with a floating bubble. Offline, no internet permission
-- 🌱 Currently learning: advanced Kotlin, Jetpack Compose, modern Android architecture
+### 🧩 [EdgeLite-Panel](https://github.com/arionacc/EdgeLite-Panel)
+
+Brings back the Edge Panel experience on Samsung devices that no longer support it.
+
+<a href="https://github.com/arionacc/EdgeLite-Panel">
+  <img src="Screenshot/Image_1.png" alt="EdgeLite Panel" width="480" />
+</a>
+
+### 📋 [SnipBox](https://github.com/arionacc/SnipBox)
+
+Snippet manager with a floating bubble. Offline, no internet permission.
+
+<a href="https://github.com/arionacc/SnipBox">
+  <img src="Screenshot/Image_2.png" alt="SnipBox" width="480" />
+</a>
+
+### 🌱 Currently learning
+
+Advanced Kotlin, Jetpack Compose, modern Android architecture.
 
 ## `$ cat stack.txt`
 
