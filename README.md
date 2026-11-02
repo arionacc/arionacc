@@ -15,18 +15,18 @@
 
 ---
 
-## `> whoami`
+## `$ whoami`
 
 Hi, I'm **Arion**, a student who loves Linux and builds small, focused tools for Android.
 I like apps that are lightweight, offline-first, and respect user privacy.
 
-## `> ls projects/`
+## `$ ls projects/`
 
 - 🧩 **[EdgeLite-Panel](https://github.com/arionacc/EdgeLite-Panel)**: Brings back the Edge Panel experience on Samsung devices that no longer support it
 - 📋 **[SnipBox](https://github.com/arionacc/SnipBox)**: Snippet manager with a floating bubble. Offline, no internet permission
 - 🌱 Currently learning: advanced Kotlin, Jetpack Compose, modern Android architecture
 
-## `> cat stack.txt`
+## `$ cat stack.txt`
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white)
@@ -36,7 +36,7 @@ I like apps that are lightweight, offline-first, and respect user privacy.
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## `> contribute`
+## `$ contribute`
 
 I enjoy contributing to open source. If you have an idea or found a bug in my projects, feel free to open an issue or send a pull request!
 
