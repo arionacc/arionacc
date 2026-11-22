@@ -8,6 +8,8 @@
   <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=Student+%26+Linux+enthusiast;Building+tools+for+Android;Kotlin+%7C+Android+%7C+Open+Source" />
 </picture>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-arionacc.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://arionacc.github.io)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=arionacc&color=2b2b2b&style=flat-square&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/arionacc?style=flat-square&logo=github&color=2b2b2b&labelColor=000000)
 
@@ -17,14 +19,20 @@
 
 ## `$ whoami`
 
-Hi, I'm **Arion**, a student who loves Linux and builds small, focused tools for Android.
-I like apps that are lightweight, offline-first, and respect user privacy.
+Hey, I'm **Arion** 👋 A student who's into Linux and loves building small, simple tools for Android.
+I'm a big fan of apps that are lightweight, work offline, and don't mess with your privacy.
+
+## `$ open portfolio`
+
+Want to see more of my stuff? Come say hi at my portfolio site:
+
+🌐 **[arionacc.github.io](https://arionacc.github.io)**
 
 ## `$ ls projects/`
 
 ### 🧩 [EdgeLite-Panel](https://github.com/arionacc/EdgeLite-Panel)
 
-Brings back the Edge Panel experience on Samsung devices that no longer support it.
+Brings the Edge Panel back to Samsung phones that don't have it anymore.
 
 <a href="https://github.com/arionacc/EdgeLite-Panel">
   <img src="Screenshot/Image_1.png" alt="EdgeLite Panel" width="480" />
@@ -34,7 +42,7 @@ Brings back the Edge Panel experience on Samsung devices that no longer support 
 
 ### 📋 [SnipBox](https://github.com/arionacc/SnipBox)
 
-Snippet manager with a floating bubble. Offline, no internet permission.
+A snippet manager with a floating bubble. Works offline and doesn't need internet permission.
 
 <a href="https://github.com/arionacc/SnipBox">
   <img src="Screenshot/Image_2.png" alt="SnipBox" width="480" />
@@ -44,7 +52,7 @@ Snippet manager with a floating bubble. Offline, no internet permission.
 
 ### 🌱 Currently learning
 
-Advanced Kotlin, Jetpack Compose, modern Android architecture.
+Advanced Kotlin, Jetpack Compose, and modern Android architecture.
 
 ## `$ cat stack.txt`
 
@@ -60,7 +68,7 @@ Advanced Kotlin, Jetpack Compose, modern Android architecture.
 
 ## `$ contribute`
 
-I enjoy contributing to open source. If you have an idea or found a bug in my projects, feel free to open an issue or send a pull request!
+I love contributing to open source! Got an idea or found a bug in one of my projects? Feel free to open an issue or send a pull request 🙌
 
 <div align="center">
 
