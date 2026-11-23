@@ -8,7 +8,7 @@
   <img alt="Typing animation" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=520&lines=Student+%26+Linux+enthusiast;Building+tools+for+Android;Kotlin+%7C+Android+%7C+Open+Source" />
 </picture>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-arionacc.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://arionacc.github.io)
+[![About me](https://img.shields.io/badge/About_me-arionacc.github.io-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://arionacc.github.io)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arionacc&color=2b2b2b&style=flat-square&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/arionacc?style=flat-square&logo=github&color=2b2b2b&labelColor=000000)
